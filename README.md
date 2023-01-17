@@ -23,10 +23,11 @@ To install this application, clone the code into your terminal for the respectiv
 
 ```JavaScript
 npm install inquirer
-const inquirer = require('inquirer');```
+const inquirer = require('inquirer'); ```
  
  
 ## Usage
+
 Inquirer is easiest to use when installed with npm:  ``` npm install inquirer ```. Then you can load the module into your code with a require call: ``` const inquirer = require("inquirer"); ```
 1. Enter management information
 2. You will be redirected to a menu, where you can choose to add an engineer, add an intern, or end the application
@@ -34,12 +35,15 @@ Inquirer is easiest to use when installed with npm:  ``` npm install inquirer ``
 4. Once you end the application, your software team will be generated in an HTML file
 
 ## License
+
 This application is rendered under MIT
 
 ## Tests
+
 ![GitHub license](./img/screenshot-test.png)
 
 ## Technology Used
+
 - HTML
 - Bootstrap 
 - JavaScript
@@ -49,6 +53,7 @@ This application is rendered under MIT
 - Jest
 
 ## Questions
+
 My Github username is Paul-Dimenshion, which can be accessed here https://github.com/Paul-Dimenshion/team-profile-generator-pd-unb.git.
 
 The Github page for this project can be accessed using the following link: https://paul-dimenshion.github.io/team-profile-generator-pd-unb/.
@@ -58,12 +63,3 @@ You can reach me at p.demenshyn@gmail.com with additional questions.
 Below are link to my demo video and the video location on my Github, respectfully: https://paul-dimenshion.github.io/team-profile-generator-pd-unb/
 - [Link to Demo Video](https://watch.screencastify.com/v/PJlA5qtqETY7TqN9ZfqT)
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
