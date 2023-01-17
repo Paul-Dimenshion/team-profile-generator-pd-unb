@@ -55,9 +55,9 @@ My Github username is Paul-Dimenshion, which can be accessed here https://github
 
 The Github page for this project can be accessed using the following link: https://jdeschat.github.io/Team_profile_generator/.
 
-You can reach me at jdeschat@gmail.com with additional questions.
+You can reach me at p.demenshyn@gmail.com with additional questions.
   
-Below are link to my demo video and the video location on my Github, respectfully:
+Below are link to my demo video and the video location on my Github, respectfully: https://paul-dimenshion.github.io/team-profile-generator-pd-unb/
 - [Link to Demo Video](https://watch.screencastify.com/v/PJlA5qtqETY7TqN9ZfqT)
 
 Footer
