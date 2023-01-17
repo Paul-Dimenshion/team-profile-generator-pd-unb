@@ -53,7 +53,7 @@ This application is rendered under MIT
 ## Questions
 My Github username is Paul-Dimenshion, which can be accessed here https://github.com/Paul-Dimenshion/team-profile-generator-pd-unb.git.
 
-The Github page for this project can be accessed using the following link: https://jdeschat.github.io/Team_profile_generator/.
+The Github page for this project can be accessed using the following link: https://paul-dimenshion.github.io/team-profile-generator-pd-unb/.
 
 You can reach me at p.demenshyn@gmail.com with additional questions.
   
