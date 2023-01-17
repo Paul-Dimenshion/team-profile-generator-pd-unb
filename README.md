@@ -23,7 +23,7 @@ To install this application, clone the code into your terminal for the respectiv
 
 ```JavaScript
 npm install inquirer
-const inquirer = require('inquirer');
+const inquirer = require('inquirer');```
  
  
 ## Usage
